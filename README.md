@@ -1,8 +1,8 @@
 # TOKEN
 Mengambil akses token fb loe 
-
+# Blog
 Tutorialnya bisa di lihat di https://www.thefoolnoob.zone.id
-
+# langkah2
 Pkg update
 Pkg upgrade
 Python2
