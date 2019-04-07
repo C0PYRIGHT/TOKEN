@@ -11,6 +11,6 @@ Lolcat
 Figlet
 Git
 Pip2 install requests
-Git clone https://github.com/Fake-System/TOKEN
+Git clone https://github.com/C0PYRIGHT/TOKEN
 cd TOKEN
 TOKEN.py
